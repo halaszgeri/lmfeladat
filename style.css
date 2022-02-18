@@ -1,0 +1,43 @@
+.bold
+{
+    font-weight: bold;
+    color: yellow;
+}
+
+body
+{
+    width: 800px;
+    background-color: rgb(167, 153, 153);
+    margin: auto;
+}
+
+h1
+{
+    font-variant: small-caps;
+}
+
+p
+{
+    text-align: justify;
+}
+
+.container
+{
+    margin: 20px;
+}
+
+a:visited
+{
+color: white;
+}
+
+a:before
+{
+    color: white;
+}
+
+a:hover
+{
+    color: red;
+}
+
